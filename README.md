@@ -21,6 +21,7 @@ Given the data collected by the desensitized boiler sensor (at a frequency of mi
 - Feature Engineering
 
     - [Common methods of feature engineering](method/feature_engineering_method.ipynb)
+    - [Feature engineering for this problem](feature_engineering.ipynb)
 
 - Model Training
 - Model Validation
